@@ -1,0 +1,89 @@
+header {
+    background-color: #ffae00ec;
+    width: 100%;
+    height: 150px;
+}
+
+footer {
+    background-color: #ff5100;
+    width: 100%;
+    height: 150px;
+}
+
+tbody {
+    border: none;
+}
+
+td {
+    width: 200px;
+    height: 200px;
+    padding: 0px;
+}
+
+img {
+    display: block;
+}
+
+#meloen {
+    background-color: #e6f0b1;
+}
+
+#fotomeloen {
+    background-color: #796d2b;
+}
+
+#banaan {
+    background-color: #fad650;
+}
+
+#fotobanaan {
+    background-color: #59df25;
+}
+
+#peer {
+    background-color: #c0d805;
+}
+
+#fotopeer {
+    background-color: #668142;
+}
+
+#sinaasappel {
+    background-color: #fd5a03;
+}
+
+#fotosinaasappel {
+    background-color: #f09f0a;
+}
+
+#kiwi {
+    background-color: #7a9f2b;
+}
+
+#fotokiwi {
+    background-color: #745b37;
+}
+
+#manderijn {
+    background-color: #f16906;
+}
+
+#fotomanderijn {
+    background-color: #745b37;
+}
+
+#druif {
+    background-color: #a6b528;
+}
+
+#fotodruif {
+    background-color: #cacebe;
+}
+
+#appel {
+    background-color: #b62538;
+}
+
+#fotoappel {
+    background-color: #dfac65;
+}
